@@ -1,7 +1,6 @@
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
-
 class Player{
     String name;
     int score;
@@ -9,7 +8,6 @@ class Player{
         this.name = name;
         this.score = score;
     }
-
     public String getName() {
         return name;
     }
