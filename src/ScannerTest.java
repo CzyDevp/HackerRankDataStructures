@@ -7,9 +7,7 @@ class ScannerTest{
    sc.nextLine();
    System.out.println("Enter your name");  
    String name=sc.next();
-   System.out.println("Enter your fee");  
-   double fee=sc.nextDouble();  
-   System.out.println("Mobile:"+mobile+" name:"+name+" fee:"+fee);
+   System.out.println("Mobile:"+mobile+" name:"+name);
    System.out.println("Enter value for str1");
    String str1=sc.next();
    System.out.println("str1 is "+str1);
