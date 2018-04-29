@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1709b37a-454f-4c48-943c-1070af0ebb65" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/GoogleSample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Solution12.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRankDataStructures/GenericFunc.class" afterPath="$PROJECT_DIR$/out/production/HackerRankDataStructures/GenericFunc.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRankDataStructures/Solution.class" afterPath="$PROJECT_DIR$/out/production/HackerRankDataStructures/Solution.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRankDataStructures/Student.class" afterPath="$PROJECT_DIR$/out/production/HackerRankDataStructures/Student.class" />
       <change beforePath="$PROJECT_DIR$/src/GenericFunc.java" afterPath="$PROJECT_DIR$/src/GenericFunc.java" />
-      <change beforePath="$PROJECT_DIR$/src/ScannerTest.java" afterPath="$PROJECT_DIR$/src/ScannerTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" afterPath="$PROJECT_DIR$/src/Solution.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/src/GenericFunc.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -154,7 +146,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="D:/Study/M.Eng/Winter2018/INSE/EV" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloWorld" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -385,7 +377,7 @@
       <workItem from="1523625069739" duration="65000" />
       <workItem from="1523984810956" duration="795000" />
       <workItem from="1524506154187" duration="38000" />
-      <workItem from="1525029897209" duration="440000" />
+      <workItem from="1525029897209" duration="1262000" />
     </task>
     <task id="LOCAL-00001" summary="Sort implemented with java8">
       <created>1519325759759</created>
@@ -408,11 +400,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523039498594</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Arraylist and scanner done!!">
+      <created>1525030416327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525030416327</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15844000" />
+    <option name="totallyTimeSpent" value="16666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -573,7 +572,7 @@
     <entry file="file://$PROJECT_DIR$/src/GenericFunc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
           <folding />
         </state>
       </provider>

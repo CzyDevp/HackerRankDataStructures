@@ -9,7 +9,7 @@ public class GenericFunc {
         printArray(a);  //call with integere
         System.out.println("String Print");
         printArray(s1); //call with strings
-    }
+    }//updated
   static {
         a1=10;
   }
