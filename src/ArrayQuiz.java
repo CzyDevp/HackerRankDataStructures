@@ -1,3 +1,5 @@
+import java.util.function.BiFunction;
+
 public class ArrayQuiz
 {
     public static void main(String[] args)
@@ -7,7 +9,8 @@ public class ArrayQuiz
         int[] arrC = {6, 1, 4, 0, 5, 3, 2};
         System.out.print(arrA[(arrC = arrB)[(arrA = arrC)[4]]]); //6
         System.out.println(arrA[4]);//3
-
+        String result = process("HelloWorld", 5, String::substring);   //str::concat
+        System.out.println("Result is : "+ result);
         //2D quiz
         String[] names[] = {
                 {"Mike", "David", "Emma"},  //1st row
@@ -17,5 +20,8 @@ public class ArrayQuiz
                 null}; //5th row
             System.out.println(names[3][2]);    //Bruce
 
+    }
+    public static String process(String str, int i,BiFunction<String,Integer,String> biFunction){
+        return biFunction.apply(str, i);
     }
 }
