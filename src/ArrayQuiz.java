@@ -20,6 +20,11 @@ public class ArrayQuiz
                 null}; //5th row
             System.out.println(names[3][2]);    //Bruce
 
+        //classCast Exception
+        Object intX = Integer.valueOf(10);     //new Integer() deprecated
+        System.out.println(intX.toString());
+
+
     }
     public static String process(String str, int i,BiFunction<String,Integer,String> biFunction){
         return biFunction.apply(str, i);
