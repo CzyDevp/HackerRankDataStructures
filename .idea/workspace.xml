@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1709b37a-454f-4c48-943c-1070af0ebb65" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRankDataStructures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRankDataStructures.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayQuizTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQuizTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="D:\Java8InAction\HackerRankDataStructures\.idea\shelf/" />
@@ -44,7 +42,7 @@
       <file leaf-file-name="ArrayQuizTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ArrayQuizTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
+            <state relative-caret-position="99">
               <caret line="29" column="97" selection-start-line="29" selection-start-column="97" selection-end-line="29" selection-end-column="97" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -306,6 +304,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1709b37a-454f-4c48-943c-1070af0ebb65" name="Default" comment="" />
+      <changelist id="" name="New changelist" comment="" />
       <created>1519323796227</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -329,7 +328,7 @@
       <workItem from="1527299258403" duration="397000" />
       <workItem from="1527299834790" duration="56000" />
       <workItem from="1527450180896" duration="233000" />
-      <workItem from="1527450577917" duration="3906000" />
+      <workItem from="1527450577917" duration="4149000" />
     </task>
     <task id="LOCAL-00001" summary="Sort implemented with java8">
       <created>1519325759759</created>
@@ -401,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527450958561</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="parametrized test done!!&#10;CsvSource&#10;ValueSource">
+      <created>1527457041034</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1527457041034</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -431,11 +437,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35098000" />
+    <option name="totallyTimeSpent" value="35341000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -446,8 +451,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5051395" side_tool="true" weight="0.36445785" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.46594426" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4948605" visible="true" weight="0.30340558" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.46594426" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4948605" weight="0.30340558" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -483,7 +488,10 @@
     <MESSAGE value="Bifunction  added!!" />
     <MESSAGE value="all updated by local!!" />
     <MESSAGE value="assertThrows implemented!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="assertThrows implemented!!" />
+    <MESSAGE value="parametrized test done!!&#10;CsvSource&#10;ValueSource" />
+    <MESSAGE value="system file added!!" />
+    <MESSAGE value="New changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="New changelist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -875,9 +883,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ArrayQuizTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
+        <state relative-caret-position="99">
           <caret line="29" column="97" selection-start-line="29" selection-start-column="97" selection-end-line="29" selection-end-column="97" />
           <folding>
             <element signature="imports" expanded="true" />
