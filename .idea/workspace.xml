@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1709b37a-454f-4c48-943c-1070af0ebb65" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Java9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayQuizTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQuizTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="D:\Java8InAction\HackerRankDataStructures\.idea\shelf/" />
@@ -39,18 +41,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayQuizTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayQuizTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayQuizTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="29" column="97" selection-start-line="29" selection-start-column="97" selection-end-line="29" selection-end-column="97" />
+            <state relative-caret-position="240">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#854#855#0" expanded="true" />
-                <element signature="e#882#883#0" expanded="true" />
-                <element signature="e#1058#1059#0" expanded="true" />
-                <element signature="e#1088#1089#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Java9.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Java9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -60,8 +67,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -96,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/Base.java" />
         <option value="$PROJECT_DIR$/src/ArrayQuiz.java" />
         <option value="$PROJECT_DIR$/src/ArrayQuizTest.java" />
+        <option value="$PROJECT_DIR$/src/Java9.java" />
       </list>
     </option>
   </component>
@@ -121,7 +129,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,8 +149,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,7 +168,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -182,32 +190,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayQuizTest">
+  <component name="RunManager" selected="Application.Java9">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="ArrayQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayQuiz" />
-      <module name="HackerRankDataStructures" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="GenericFunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GenericFunc" />
-      <module name="HackerRankDataStructures" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="HashSetH" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashSetH" />
       <module name="HackerRankDataStructures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="HackerRankDataStructures" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Sub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sub" />
+    <configuration name="Java9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java9" />
       <module name="HackerRankDataStructures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -222,6 +215,57 @@
       <option name="MAIN_CLASS_NAME" value="ArrayQuizTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ArrayQuizTest.process" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankDataStructures" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayQuizTest" />
+      <option name="METHOD_NAME" value="process" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ArrayQuizTest.testParams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankDataStructures" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayQuizTest" />
+      <option name="METHOD_NAME" value="testParams(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ArrayQuizTest.testUpperCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankDataStructures" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayQuizTest" />
+      <option name="METHOD_NAME" value="testUpperCase(java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -271,19 +315,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.HashSetH" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.GenericFunc" />
-      <item itemvalue="Application.ArrayQuiz" />
-      <item itemvalue="Application.Sub" />
       <item itemvalue="JUnit.ArrayQuizTest" />
+      <item itemvalue="JUnit.ArrayQuizTest.testUpperCase" />
+      <item itemvalue="JUnit.ArrayQuizTest.testParams" />
+      <item itemvalue="JUnit.ArrayQuizTest.process" />
+      <item itemvalue="Application.Java9" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java9" />
+        <item itemvalue="JUnit.ArrayQuizTest.process" />
+        <item itemvalue="JUnit.ArrayQuizTest.testParams" />
+        <item itemvalue="JUnit.ArrayQuizTest.testUpperCase" />
         <item itemvalue="JUnit.ArrayQuizTest" />
-        <item itemvalue="Application.ArrayQuiz" />
-        <item itemvalue="Application.Sub" />
-        <item itemvalue="Application.GenericFunc" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +348,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1709b37a-454f-4c48-943c-1070af0ebb65" name="Default" comment="" />
-      <changelist id="" name="New changelist" comment="" />
       <created>1519323796227</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -328,7 +371,12 @@
       <workItem from="1527299258403" duration="397000" />
       <workItem from="1527299834790" duration="56000" />
       <workItem from="1527450180896" duration="233000" />
-      <workItem from="1527450577917" duration="4149000" />
+      <workItem from="1527450577917" duration="4945000" />
+      <workItem from="1527558304973" duration="607000" />
+      <workItem from="1527604882475" duration="644000" />
+      <workItem from="1527988762196" duration="262000" />
+      <workItem from="1528385678763" duration="565000" />
+      <workItem from="1528426804801" duration="3280000" />
     </task>
     <task id="LOCAL-00001" summary="Sort implemented with java8">
       <created>1519325759759</created>
@@ -407,40 +455,54 @@
       <option name="project" value="LOCAL" />
       <updated>1527457041034</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="New changelist">
+      <created>1527457244728</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1527457244728</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArrayQuizTest - 2018.05.27 at 15h 52m 29s.xml">
-      <configuration name="ArrayQuizTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayQuizTest - 2018.05.27 at 15h 53m 02s.xml">
-      <configuration name="ArrayQuizTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayQuizTest - 2018.05.27 at 15h 53m 23s.xml">
-      <configuration name="ArrayQuizTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayQuizTest - 2018.05.27 at 15h 54m 21s.xml">
-      <configuration name="ArrayQuizTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayQuizTest - 2018.05.27 at 15h 57m 50s.xml">
-      <configuration name="ArrayQuizTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayQuizTest - 2018.05.27 at 15h 58m 11s.xml">
-      <configuration name="ArrayQuizTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayQuizTest - 2018.05.27 at 17h 28m 34s.xml">
-      <configuration name="ArrayQuizTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ArrayQuizTest - 2018.05.27 at 17h 35m 21s.xml">
       <configuration name="ArrayQuizTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ArrayQuizTest - 2018.05.27 at 17h 44m 33s.xml">
+      <configuration name="ArrayQuizTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayQuizTest_testUpperCase - 2018.05.27 at 17h 44m 54s.xml">
+      <configuration name="ArrayQuizTest.testUpperCase" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayQuizTest_testUpperCase - 2018.05.27 at 17h 45m 54s.xml">
+      <configuration name="ArrayQuizTest.testUpperCase" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayQuizTest_testUpperCase - 2018.05.27 at 17h 46m 14s.xml">
+      <configuration name="ArrayQuizTest.testUpperCase" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayQuizTest_testUpperCase - 2018.05.27 at 17h 50m 52s.xml">
+      <configuration name="ArrayQuizTest.testUpperCase" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayQuizTest_testParams - 2018.05.27 at 17h 52m 02s.xml">
+      <configuration name="ArrayQuizTest.testParams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayQuizTest_process - 2018.05.27 at 17h 52m 17s.xml">
+      <configuration name="ArrayQuizTest.process" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayQuizTest_process - 2018.05.27 at 17h 53m 17s.xml">
+      <configuration name="ArrayQuizTest.process" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayQuizTest_process - 2018.05.27 at 17h 53m 36s.xml">
+      <configuration name="ArrayQuizTest.process" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35341000" />
+    <option name="totallyTimeSpent" value="41495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -451,19 +513,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5051395" side_tool="true" weight="0.36445785" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.46594426" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4948605" weight="0.30340558" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.46594426" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4948605" weight="0.21207431" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16111952" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17246597" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30246913" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5696595" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -480,6 +542,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Sort implemented with java8" />
     <MESSAGE value="Comparator implemented with java8 and Comparator interface" />
     <MESSAGE value="Arraylist and scanner done!!" />
@@ -504,6 +567,23 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ArrayQuiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayQuizTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -541,9 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -577,9 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -812,9 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-305">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -829,10 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="36" column="42" lean-forward="true" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="43" />
-          <folding>
-            <element signature="e#70#71#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -888,15 +955,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ArrayQuizTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="29" column="97" selection-start-line="29" selection-start-column="97" selection-end-line="29" selection-end-column="97" />
+        <state relative-caret-position="240">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#1058#1059#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
         </state>
       </provider>
     </entry>

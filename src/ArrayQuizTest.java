@@ -1,16 +1,16 @@
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.ValueSource;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertThrows;
-import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.*;
 
 class ArrayQuizTest {
      //NullPointer error
-    @org.junit.jupiter.api.Test
+    @Test
     @DisplayName("Null Error")    //cname will appear as this
+    //@RepeatedTest(5)
     void process() {
         String name = null;
         assertThrows(NullPointerException.class,()->{
@@ -26,7 +26,7 @@ class ArrayQuizTest {
         assertTrue(string.length()>0);
     }
 
-    @ParameterizedTest
+    @ParameterizedTest (name = "{0} uppercase value {1}")
     @CsvSource(value = {"abc,ABC","'',''"})      //empty string treated as a Null by CSV ('') <- solution
     @DisplayName("Params Test")
     void testUpperCase(String word, String capitalized){
