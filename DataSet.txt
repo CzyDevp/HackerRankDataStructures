@@ -1,0 +1,7 @@
+{john, [jill,joe,bob]}.
+{padhro, [bob,joe,bob]}.
+{sue, [jill,jill,jill,bob,jill]}.
+{bob, [john]}.
+{joe, [sue]}.
+
+channo
