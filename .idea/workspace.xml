@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1709b37a-454f-4c48-943c-1070af0ebb65" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DataSet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultithreadAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accuqiso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stringfrq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stringfrq.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="D:\Java8InAction\HackerRankDataStructures\.idea\shelf/" />
@@ -80,14 +80,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MultithreadAssignment.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MultithreadAssignment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MultithreadAssignment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stringfrq.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stringfrq.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Accuqiso.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Accuqiso.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -147,6 +165,8 @@
         <option value="$PROJECT_DIR$/src/Main2.java" />
         <option value="$PROJECT_DIR$/DataSet.txt" />
         <option value="$PROJECT_DIR$/src/MultithreadAssignment.java" />
+        <option value="$PROJECT_DIR$/src/Stringfrq.java" />
+        <option value="$PROJECT_DIR$/src/Accuqiso.java" />
       </list>
     </option>
   </component>
@@ -172,14 +192,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="HackerRankDataStructures" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRankDataStructures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRankDataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRankDataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HackerRankDataStructures" type="b2602c69:ProjectViewProjectNode" />
@@ -234,9 +259,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultithreadAssignment">
+  <component name="RunManager" selected="Application.Accuqiso">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Accuqiso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Accuqiso" />
+      <module name="HackerRankDataStructures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="BooleanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BooleanTest" />
@@ -268,23 +298,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ArrayQuizTest" />
       <option name="METHOD_NAME" value="process" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ArrayQuizTest.testParams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HackerRankDataStructures" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ArrayQuizTest" />
-      <option name="METHOD_NAME" value="testParams(java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -335,19 +348,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.HashSetH" />
-      <item itemvalue="JUnit.ArrayQuizTest.testParams" />
       <item itemvalue="JUnit.ArrayQuizTest.process" />
       <item itemvalue="Application.Java9" />
       <item itemvalue="Application.BooleanTest" />
       <item itemvalue="Application.MultithreadAssignment" />
+      <item itemvalue="Application.Accuqiso" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Accuqiso" />
         <item itemvalue="Application.MultithreadAssignment" />
         <item itemvalue="Application.BooleanTest" />
         <item itemvalue="Application.Java9" />
         <item itemvalue="JUnit.ArrayQuizTest.process" />
-        <item itemvalue="JUnit.ArrayQuizTest.testParams" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +414,10 @@
       <workItem from="1528551774412" duration="599000" />
       <workItem from="1528559005435" duration="466000" />
       <workItem from="1528852117212" duration="1121000" />
-      <workItem from="1529350896180" duration="4412000" />
+      <workItem from="1529350896180" duration="4610000" />
+      <workItem from="1529443715951" duration="59000" />
+      <workItem from="1529443969566" duration="1622000" />
+      <workItem from="1530368277305" duration="603000" />
     </task>
     <task id="LOCAL-00001" summary="Sort implemented with java8">
       <created>1519325759759</created>
@@ -508,7 +524,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528853109614</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="multithreading course assignment data reading done!!&#10;java8 booms!!">
+      <created>1529355502717</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1529355502717</updated>
+    </task>
+    <task id="LOCAL-00017" summary="updated!!">
+      <created>1529355605697</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1529355605697</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -544,7 +574,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48393000" />
+    <option name="totallyTimeSpent" value="50875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -552,26 +582,25 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32662538" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5051395" side_tool="true" weight="0.36445785" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4948605" visible="true" weight="0.26993865" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.23466258" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.31441718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4948605" weight="0.35889572" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18381241" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19288956" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5696595" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5696595" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -579,6 +608,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32662538" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -586,16 +616,15 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4948605" visible="true" weight="0.47699386" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18381241" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5696595" />
       <window_info id="Learn" order="5" />
@@ -605,11 +634,12 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5051395" side_tool="true" weight="0.36445785" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.23466258" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32662538" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18381241" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -634,7 +664,9 @@
     <MESSAGE value="java9 immutable collection improvement implemented" />
     <MESSAGE value="repo updated" />
     <MESSAGE value="boolean assignment inside if tested!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="boolean assignment inside if tested!!" />
+    <MESSAGE value="multithreading course assignment data reading done!!&#10;java8 booms!!" />
+    <MESSAGE value="updated!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated!!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -647,27 +679,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ArrayQuiz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ArrayQuiz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
@@ -983,10 +994,25 @@
     <entry file="file://$PROJECT_DIR$/src/MultithreadAssignment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringFrequency" />
+    <entry file="file://$PROJECT_DIR$/src/Stringfrq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Accuqiso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
