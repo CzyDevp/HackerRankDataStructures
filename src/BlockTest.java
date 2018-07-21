@@ -18,8 +18,8 @@ public class BlockTest {
         BlockTest test1 = new BlockTest();
         System.out.println("Before second new:");
         BlockTest test2 = new BlockTest();
-        System.out.println(Invoice.formatid("1234"));
-        System.out.println(SalesInvoice.formatid("3456"));
+        System.out.println(Invoice.formatId("1234"));
+        System.out.println(SalesInvoice.formatId("3456"));
 
     }
 }

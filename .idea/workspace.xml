@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1709b37a-454f-4c48-943c-1070af0ebb65" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Invoice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JuniorLevelInterviewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JuniorLevelInterviewTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="D:\Java8InAction\HackerRankDataStructures\.idea\shelf/" />
@@ -23,25 +24,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BlockTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BlockTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BlockTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+            <state relative-caret-position="340">
+              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Invoice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Invoice.java">
+      <file leaf-file-name="JuniorLevelInterviewTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JuniorLevelInterviewTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="940">
+              <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
               <folding>
-                <element signature="e#71#72#0" expanded="true" />
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,10 +98,10 @@
         <option value="$PROJECT_DIR$/src/Debugging.java" />
         <option value="$PROJECT_DIR$/src/MathUtils.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/JuniorLevelInterviewTest.java" />
         <option value="$PROJECT_DIR$/src/Parent.java" />
         <option value="$PROJECT_DIR$/src/Invoice.java" />
         <option value="$PROJECT_DIR$/src/BlockTest.java" />
+        <option value="$PROJECT_DIR$/src/JuniorLevelInterviewTest.java" />
       </list>
     </option>
   </component>
@@ -131,6 +129,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,8 +157,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BlockTest">
+  <component name="RunManager" selected="Application.JuniorLevelInterviewTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -288,9 +286,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JuniorLevelInterviewTest" />
         <item itemvalue="Application.BlockTest" />
         <item itemvalue="Application.Child" />
-        <item itemvalue="Application.JuniorLevelInterviewTest" />
         <item itemvalue="Application.TestOverriding" />
         <item itemvalue="Application.Debugging" />
       </list>
@@ -356,7 +354,8 @@
       <workItem from="1531493429542" duration="3459000" />
       <workItem from="1531577538237" duration="1816000" />
       <workItem from="1531585873496" duration="598000" />
-      <workItem from="1532190818072" duration="4773000" />
+      <workItem from="1532190818072" duration="4860000" />
+      <workItem from="1532196978195" duration="402000" />
     </task>
     <task id="LOCAL-00001" summary="Sort implemented with java8">
       <created>1519325759759</created>
@@ -526,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532194870681</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Invoice- SalesInvoice done!! static members">
+      <created>1532195685304</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1532195685304</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -562,15 +568,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67148000" />
+    <option name="totallyTimeSpent" value="67637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32507738" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32352942" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -578,11 +583,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.15944272" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4948605" visible="true" weight="0.2972136" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4948605" visible="true" weight="0.27708977" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16868381" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1709531" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -600,22 +605,22 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.23466258" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4948605" visible="true" weight="0.47699386" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.23466258" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32662538" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18381241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4948605" visible="true" weight="0.47699386" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info id="Learn" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -624,8 +629,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5051395" side_tool="true" weight="0.36445785" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32662538" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
     </layout-to-restore>
@@ -660,11 +665,12 @@
     <MESSAGE value="4 questions based on java8 done!!" />
     <MESSAGE value="inheritance done!!" />
     <MESSAGE value="static vs instance blocks done!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="static vs instance blocks done!!" />
+    <MESSAGE value="Invoice- SalesInvoice done!! static members" />
+    <option name="LAST_COMMIT_MESSAGE" value="Invoice- SalesInvoice done!! static members" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -953,9 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -989,16 +992,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JuniorLevelInterviewTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Parent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -1016,21 +1009,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Invoice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
           <folding>
             <element signature="e#71#72#0" expanded="true" />
             <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BlockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        <state relative-caret-position="340">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JuniorLevelInterviewTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

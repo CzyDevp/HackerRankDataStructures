@@ -31,6 +31,21 @@ public class JuniorLevelInterviewTest {
                    .mapToInt(j->j)
                    .max()
                    .ifPresent(s->System.out.println(s));
+        int a = 2;
+        switch (a){
+            case 1:
+                System.out.println(1);
+            case 2:
+                System.out.println(2);
+            case 3:
+                System.out.println(3);
+        }
+        String str = "ok";
+        String str1 = new String("ok");
+        System.out.println(str.equals(str1));
+        System.out.println(str==str1);
+        System.out.println(str.hashCode()==str1.hashCode());
+        System.out.println(str.matches(str1));
      }
 
 }
