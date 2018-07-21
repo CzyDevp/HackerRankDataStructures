@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1709b37a-454f-4c48-943c-1070af0ebb65" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BlockTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,8 +24,8 @@
       <file leaf-file-name="BlockTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BlockTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            <state relative-caret-position="360">
+              <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -339,7 +338,7 @@
       <workItem from="1531493429542" duration="3459000" />
       <workItem from="1531577538237" duration="1816000" />
       <workItem from="1531585873496" duration="598000" />
-      <workItem from="1532190818072" duration="3904000" />
+      <workItem from="1532190818072" duration="3987000" />
     </task>
     <task id="LOCAL-00001" summary="Sort implemented with java8">
       <created>1519325759759</created>
@@ -495,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532194313169</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="static vs instance blocks done!!">
+      <created>1532194819845</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1532194819845</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -531,7 +537,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66279000" />
+    <option name="totallyTimeSpent" value="66362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -546,8 +552,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5051395" side_tool="true" weight="0.36445785" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.15944272" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4948605" visible="true" weight="0.20433436" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.15944272" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4948605" weight="0.2972136" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -628,7 +634,8 @@
     <MESSAGE value="entry level java developer test done!!" />
     <MESSAGE value="4 questions based on java8 done!!" />
     <MESSAGE value="inheritance done!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="inheritance done!!" />
+    <MESSAGE value="static vs instance blocks done!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="static vs instance blocks done!!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -991,8 +998,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BlockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="360">
+          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
         </state>
       </provider>
     </entry>
