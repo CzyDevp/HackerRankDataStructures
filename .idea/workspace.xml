@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1709b37a-454f-4c48-943c-1070af0ebb65" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JuniorLevelInterviewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BlockTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="D:\Java8InAction\HackerRankDataStructures\.idea\shelf/" />
@@ -23,14 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JuniorLevelInterviewTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JuniorLevelInterviewTest.java">
+      <file leaf-file-name="BlockTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BlockTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -89,6 +85,8 @@
         <option value="$PROJECT_DIR$/src/MathUtils.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/JuniorLevelInterviewTest.java" />
+        <option value="$PROJECT_DIR$/src/Parent.java" />
+        <option value="$PROJECT_DIR$/src/BlockTest.java" />
       </list>
     </option>
   </component>
@@ -188,27 +186,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JuniorLevelInterviewTest">
+  <component name="RunManager" selected="Application.BlockTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="BlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlockTest" />
+      <module name="HackerRankDataStructures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Child" />
+      <module name="HackerRankDataStructures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="Debugging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Debugging" />
       <module name="HackerRankDataStructures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
-      <module name="HackerRankDataStructures" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
     <configuration name="HashSetH" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashSetH" />
-      <module name="HackerRankDataStructures" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="IssueResolving" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IssueResolving" />
       <module name="HackerRankDataStructures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -265,19 +263,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.HashSetH" />
-      <item itemvalue="Application.IssueResolving" />
-      <item itemvalue="Application.FizzBuzz" />
       <item itemvalue="Application.Debugging" />
       <item itemvalue="Application.TestOverriding" />
       <item itemvalue="Application.JuniorLevelInterviewTest" />
+      <item itemvalue="Application.Child" />
+      <item itemvalue="Application.BlockTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BlockTest" />
+        <item itemvalue="Application.Child" />
         <item itemvalue="Application.JuniorLevelInterviewTest" />
         <item itemvalue="Application.TestOverriding" />
         <item itemvalue="Application.Debugging" />
-        <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.IssueResolving" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +339,7 @@
       <workItem from="1531493429542" duration="3459000" />
       <workItem from="1531577538237" duration="1816000" />
       <workItem from="1531585873496" duration="598000" />
-      <workItem from="1532190818072" duration="2815000" />
+      <workItem from="1532190818072" duration="3904000" />
     </task>
     <task id="LOCAL-00001" summary="Sort implemented with java8">
       <created>1519325759759</created>
@@ -483,7 +481,21 @@
       <option name="project" value="LOCAL" />
       <updated>1532191195126</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="4 questions based on java8 done!!">
+      <created>1532193846299</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1532193846299</updated>
+    </task>
+    <task id="LOCAL-00022" summary="inheritance done!!">
+      <created>1532194313169</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1532194313169</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -519,7 +531,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65190000" />
+    <option name="totallyTimeSpent" value="66279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -614,7 +626,9 @@
     <MESSAGE value="Accquisio interview question added" />
     <MESSAGE value="Workjam interview questions added!!&#10;stack with array&#10;char array reverse using StringBuilder" />
     <MESSAGE value="entry level java developer test done!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="entry level java developer test done!!" />
+    <MESSAGE value="4 questions based on java8 done!!" />
+    <MESSAGE value="inheritance done!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance done!!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -627,20 +641,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayQuiz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -966,11 +966,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JuniorLevelInterviewTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="424">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding>
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BlockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
