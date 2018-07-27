@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1709b37a-454f-4c48-943c-1070af0ebb65" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Abcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Invoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JuniorLevelInterviewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JuniorLevelInterviewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayQuizTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQuizTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="D:\Java8InAction\HackerRankDataStructures\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,25 +21,94 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/HackerRankDataStructures$HashSetH.coverage" NAME="HashSetH Coverage Results" MODIFIED="1519324272869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-860334519">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1287" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1287" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BlockTest.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BlockTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JuniorLevelInterviewTest.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JuniorLevelInterviewTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="940">
-              <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+            <state relative-caret-position="300">
+              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/myCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Abcd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="48" lean-forward="true" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stringfrq.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArrayQuizTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-308">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -83,7 +151,6 @@
         <option value="$PROJECT_DIR$/src/TestOverriding.java" />
         <option value="$PROJECT_DIR$/src/Base.java" />
         <option value="$PROJECT_DIR$/src/ArrayQuiz.java" />
-        <option value="$PROJECT_DIR$/src/ArrayQuizTest.java" />
         <option value="$PROJECT_DIR$/src/Java9.java" />
         <option value="$PROJECT_DIR$/src/MyClass.java" />
         <option value="$PROJECT_DIR$/src/BooleanTest.java" />
@@ -102,6 +169,9 @@
         <option value="$PROJECT_DIR$/src/Invoice.java" />
         <option value="$PROJECT_DIR$/src/BlockTest.java" />
         <option value="$PROJECT_DIR$/src/JuniorLevelInterviewTest.java" />
+        <option value="$PROJECT_DIR$/src/ArrayQuizTest.java" />
+        <option value="$PROJECT_DIR$/src/Abcd.java" />
+        <option value="$PROJECT_DIR$/src/myCode.java" />
       </list>
     </option>
   </component>
@@ -111,12 +181,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="3" />
+    <option name="x" value="677" />
     <option name="width" value="697" />
     <option name="height" value="775" />
   </component>
@@ -130,7 +196,6 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,18 +210,13 @@
             </path>
             <path>
               <item name="HackerRankDataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HackerRankDataStructures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TestOverriding.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="HackerRankDataStructures" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,6 +225,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532705906995" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -201,96 +262,96 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JuniorLevelInterviewTest">
+  <component name="RunManager" selected="Application.myCode">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="BlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlockTest" />
       <module name="HackerRankDataStructures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Child" />
       <module name="HackerRankDataStructures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Debugging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Debugging" />
-      <module name="HackerRankDataStructures" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="HashSetH" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashSetH" />
       <module name="HackerRankDataStructures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="JuniorLevelInterviewTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JuniorLevelInterviewTest" />
       <module name="HackerRankDataStructures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TestOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestOverriding" />
       <module name="HackerRankDataStructures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myCode" />
+      <module name="HackerRankDataStructures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Application.HashSetH" />
-      <item itemvalue="Application.Debugging" />
       <item itemvalue="Application.TestOverriding" />
       <item itemvalue="Application.JuniorLevelInterviewTest" />
       <item itemvalue="Application.Child" />
       <item itemvalue="Application.BlockTest" />
+      <item itemvalue="Application.myCode" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.myCode" />
         <item itemvalue="Application.JuniorLevelInterviewTest" />
         <item itemvalue="Application.BlockTest" />
         <item itemvalue="Application.Child" />
         <item itemvalue="Application.TestOverriding" />
-        <item itemvalue="Application.Debugging" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +416,9 @@
       <workItem from="1531577538237" duration="1816000" />
       <workItem from="1531585873496" duration="598000" />
       <workItem from="1532190818072" duration="4860000" />
-      <workItem from="1532196978195" duration="402000" />
+      <workItem from="1532196978195" duration="1026000" />
+      <workItem from="1532270975364" duration="378000" />
+      <workItem from="1532701419108" duration="4451000" />
     </task>
     <task id="LOCAL-00001" summary="Sort implemented with java8">
       <created>1519325759759</created>
@@ -532,7 +595,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532195685304</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="all test done!!">
+      <created>1532197398928</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1532197398928</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -568,71 +638,72 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67637000" />
+    <option name="totallyTimeSpent" value="73090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32352942" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5051395" side_tool="true" weight="0.36445785" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.15944272" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4948605" visible="true" weight="0.27708977" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1709531" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17549168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5696595" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info id="Learn" order="2" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.23466258" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18381241" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4948605" visible="true" weight="0.47699386" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info id="Learn" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5696595" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5051395" side_tool="true" weight="0.36445785" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32662538" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4948605" visible="true" weight="0.06615385" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5696595" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.15944272" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5051395" side_tool="true" weight="0.36445785" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32307693" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18381241" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4948605" visible="true" weight="0.47699386" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5696595" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5051395" side_tool="true" weight="0.36445785" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.23466258" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32662538" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -666,12 +737,10 @@
     <MESSAGE value="inheritance done!!" />
     <MESSAGE value="static vs instance blocks done!!" />
     <MESSAGE value="Invoice- SalesInvoice done!! static members" />
-    <option name="LAST_COMMIT_MESSAGE" value="Invoice- SalesInvoice done!! static members" />
+    <MESSAGE value="all test done!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="all test done!!" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="11" />
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="s.substring(0,module-1)" />
@@ -679,144 +748,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GenericFunc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestOverriding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GenericFunc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestOverriding.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GenericFunc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestOverriding.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GenericFunc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestOverriding.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GenericFunc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="61" lean-forward="true" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GenericFunc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HashSetH.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -838,13 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayQuizTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -860,9 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -884,11 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -910,13 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stringfrq.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-265">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -977,13 +886,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestOverriding.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -996,14 +899,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          <folding>
-            <element signature="e#78#79#0" expanded="true" />
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1011,24 +906,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding>
-            <element signature="e#71#72#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BlockTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JuniorLevelInterviewTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="940">
-          <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+        <state relative-caret-position="300">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayQuizTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stringfrq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Abcd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="48" lean-forward="true" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
