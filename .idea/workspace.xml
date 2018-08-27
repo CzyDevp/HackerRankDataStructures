@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1709b37a-454f-4c48-943c-1070af0ebb65" name="Default" comment="stingray coding challenge added!! 2nd part done(mycode)!!">
+    <list default="true" id="1709b37a-454f-4c48-943c-1070af0ebb65" name="Default" comment="refactoring of class names done!!">
+      <change afterPath="$PROJECT_DIR$/src/GenerixSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnderGradAssignments/Assignment1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StinGrayQuestion2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Abcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abcd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Debugging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debugging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution12.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="D:\Java8InAction\HackerRankDataStructures\.idea\shelf/" />
@@ -23,92 +29,53 @@
     <session id="-860334519">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1326" />
-          <entry key="txt" value="63" />
+          <entry key="java" value="4265" />
+          <entry key="txt" value="104" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1326" />
-          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="JAVA" value="4265" />
+          <entry key="PLAIN_TEXT" value="104" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BlockTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JuniorLevelInterviewTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/StinGrayQuestion2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Abcd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="48" lean-forward="true" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stringfrq.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArrayQuizTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-308">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -170,9 +137,12 @@
         <option value="$PROJECT_DIR$/src/BlockTest.java" />
         <option value="$PROJECT_DIR$/src/JuniorLevelInterviewTest.java" />
         <option value="$PROJECT_DIR$/src/ArrayQuizTest.java" />
-        <option value="$PROJECT_DIR$/src/Abcd.java" />
         <option value="$PROJECT_DIR$/src/myCode.java" />
         <option value="$PROJECT_DIR$/src/StinGrayQuestion2.java" />
+        <option value="$PROJECT_DIR$/src/Abcd.java" />
+        <option value="$PROJECT_DIR$/src/UnderGradAssignments/Assignment1.java" />
+        <option value="$PROJECT_DIR$/src/GenerixSolution.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList.java" />
       </list>
     </option>
   </component>
@@ -196,7 +166,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,18 +176,13 @@
             </path>
             <path>
               <item name="HackerRankDataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HackerRankDataStructures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HackerRankDataStructures" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,7 +191,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532706045918" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535386385258" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -235,7 +200,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -263,23 +228,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.myCode">
+  <component name="RunManager" selected="Application.GenerixSolution">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BlockTest" />
+    <configuration name="Assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnderGradAssignments.Assignment1" />
       <module name="HackerRankDataStructures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnderGradAssignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Child" />
+    <configuration name="GenerixSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenerixSolution" />
       <module name="HackerRankDataStructures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -302,8 +273,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestOverriding" />
+    <configuration name="StinGrayQuestion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StinGrayQuestion2" />
       <module name="HackerRankDataStructures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -340,19 +311,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.HashSetH" />
-      <item itemvalue="Application.TestOverriding" />
       <item itemvalue="Application.JuniorLevelInterviewTest" />
-      <item itemvalue="Application.Child" />
-      <item itemvalue="Application.BlockTest" />
       <item itemvalue="Application.myCode" />
+      <item itemvalue="Application.StinGrayQuestion2" />
+      <item itemvalue="Application.Assignment1" />
+      <item itemvalue="Application.GenerixSolution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenerixSolution" />
+        <item itemvalue="Application.Assignment1" />
+        <item itemvalue="Application.StinGrayQuestion2" />
         <item itemvalue="Application.myCode" />
         <item itemvalue="Application.JuniorLevelInterviewTest" />
-        <item itemvalue="Application.BlockTest" />
-        <item itemvalue="Application.Child" />
-        <item itemvalue="Application.TestOverriding" />
       </list>
     </recent_temporary>
   </component>
@@ -419,7 +390,13 @@
       <workItem from="1532190818072" duration="4860000" />
       <workItem from="1532196978195" duration="1026000" />
       <workItem from="1532270975364" duration="378000" />
-      <workItem from="1532701419108" duration="4592000" />
+      <workItem from="1532701419108" duration="4706000" />
+      <workItem from="1533391563301" duration="5406000" />
+      <workItem from="1533397264670" duration="3708000" />
+      <workItem from="1533480581877" duration="2057000" />
+      <workItem from="1534200561442" duration="602000" />
+      <workItem from="1534428532989" duration="816000" />
+      <workItem from="1535385940272" duration="429000" />
     </task>
     <task id="LOCAL-00001" summary="Sort implemented with java8">
       <created>1519325759759</created>
@@ -610,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532705961181</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="refactoring of class names done!!">
+      <created>1532706064931</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1532706064931</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -646,13 +630,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73231000" />
+    <option name="totallyTimeSpent" value="86363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17549168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1913767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -661,14 +645,14 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4948605" visible="true" weight="0.06615385" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4948605" weight="0.083076924" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5696595" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.15944272" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.38307694" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.17076923" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5051395" side_tool="true" weight="0.36445785" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32307693" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -722,7 +706,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Sort implemented with java8" />
     <MESSAGE value="Comparator implemented with java8 and Comparator interface" />
     <MESSAGE value="Arraylist and scanner done!!" />
     <MESSAGE value="Quiz for Single and twoD Array Done!!" />
@@ -747,7 +730,8 @@
     <MESSAGE value="Invoice- SalesInvoice done!! static members" />
     <MESSAGE value="all test done!!" />
     <MESSAGE value="stingray coding challenge added!! 2nd part done(mycode)!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="stingray coding challenge added!! 2nd part done(mycode)!!" />
+    <MESSAGE value="refactoring of class names done!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring of class names done!!" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -927,18 +911,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JuniorLevelInterviewTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="220">
           <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayQuizTest.java">
+    <entry file="file://$PROJECT_DIR$/src/StinGrayQuestion2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-308">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="140">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Abcd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -949,19 +937,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Abcd.java">
+    <entry file="file://$PROJECT_DIR$/src/ArrayQuizTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="48" lean-forward="true" selection-end-line="22" />
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StinGrayQuestion2.java">
+    <entry file="file://$PROJECT_DIR$/src/GenerixSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UnderGradAssignments/Assignment1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#Book#0;class#Book#0" />
+            <element signature="method#equals#0;class#Book#0" />
+            <element signature="method#toString#0;class#Book#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
           </folding>
         </state>
       </provider>

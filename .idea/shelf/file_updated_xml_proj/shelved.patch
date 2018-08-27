@@ -1,0 +1,848 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"1709b37a-454f-4c48-943c-1070af0ebb65\" name=\"Default\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" />\n      <change beforePath=\"$PROJECT_DIR$/src/ArrayQuiz.java\" afterPath=\"$PROJECT_DIR$/src/ArrayQuiz.java\" />\n    </list>\n    <ignored path=\"$PROJECT_DIR$/out/\" />\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\n    <option name=\"TRACKING_ENABLED\" value=\"true\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"CodeInsightWorkspaceSettings\">\n    <option name=\"optimizeImportsOnTheFly\" value=\"true\" />\n  </component>\n  <component name=\"CoverageDataManager\">\n    <SUITE FILE_PATH=\"coverage/HackerRankDataStructures$HashSetH.coverage\" NAME=\"HashSetH Coverage Results\" MODIFIED=\"1519324272869\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"idea\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" />\n  </component>\n  <component name=\"FileEditorManager\">\n    <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"300\">\n      <file leaf-file-name=\"Base.java\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/Base.java\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"153\">\n              <caret line=\"24\" column=\"27\" lean-forward=\"true\" selection-start-line=\"24\" selection-start-column=\"27\" selection-end-line=\"24\" selection-end-column=\"27\" />\n              <folding>\n                <element signature=\"e#286#287#0\" expanded=\"true\" />\n                <element signature=\"e#337#338#0\" expanded=\"true\" />\n                <element signature=\"e#358#359#0\" expanded=\"true\" />\n                <element signature=\"e#380#381#0\" expanded=\"true\" />\n                <element signature=\"e#406#407#0\" expanded=\"true\" />\n                <element signature=\"e#442#443#0\" expanded=\"true\" />\n                <element signature=\"e#484#485#0\" expanded=\"true\" />\n                <element signature=\"e#503#504#0\" expanded=\"true\" />\n                <element signature=\"e#523#524#0\" expanded=\"true\" />\n                <element signature=\"e#548#549#0\" expanded=\"true\" />\n              </folding>\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"ArrayQuiz.java\" pinned=\"false\" current-in-tab=\"true\">\n        <entry file=\"file://$PROJECT_DIR$/src/ArrayQuiz.java\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"187\">\n              <caret line=\"11\" column=\"84\" lean-forward=\"false\" selection-start-line=\"11\" selection-start-column=\"84\" selection-end-line=\"11\" selection-end-column=\"84\" />\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n    </leaf>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"PUSH_TAGS\">\n      <GitPushTagMode />\n    </option>\n  </component>\n  <component name=\"GradleLocalSettings\">\n    <option name=\"externalProjectsViewState\">\n      <projects_view />\n    </option>\n    <option name=\"projectSyncType\">\n      <map>\n        <entry key=\"$USER_HOME$/Downloads/play-java-starter-example-2.6.x/play-java-starter-example-2.6.x\" value=\"PREVIEW\" />\n      </map>\n    </option>\n  </component>\n  <component name=\"IdeDocumentHistory\">\n    <option name=\"CHANGED_PATHS\">\n      <list>\n        <option value=\"$PROJECT_DIR$/src/HashSetH.java\" />\n        <option value=\"$PROJECT_DIR$/src/Main.java\" />\n        <option value=\"$PROJECT_DIR$/src/Player.java\" />\n        <option value=\"$PROJECT_DIR$/src/ArraylistHack.java\" />\n        <option value=\"$PROJECT_DIR$/src/ScannerTest.java\" />\n        <option value=\"$PROJECT_DIR$/src/GoogleSample.java\" />\n        <option value=\"$PROJECT_DIR$/src/CrunchifyMarmutationExample.java\" />\n        <option value=\"$PROJECT_DIR$/src/Solutionmera.java\" />\n        <option value=\"$PROJECT_DIR$/src/Solution.java\" />\n        <option value=\"$PROJECT_DIR$/src/GenericFunc.java\" />\n        <option value=\"$PROJECT_DIR$/src/TestOverriding.java\" />\n        <option value=\"$PROJECT_DIR$/src/MyClass.java\" />\n        <option value=\"$PROJECT_DIR$/src/Base.java\" />\n        <option value=\"$PROJECT_DIR$/src/ArrayQuiz.java\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"JsBuildToolGruntFileManager\" detection-done=\"true\" sorting=\"DEFINITION_ORDER\" />\n  <component name=\"JsBuildToolPackageJson\" detection-done=\"true\" sorting=\"DEFINITION_ORDER\" />\n  <component name=\"JsGulpfileManager\">\n    <detection-done>true</detection-done>\n    <sorting>DEFINITION_ORDER</sorting>\n  </component>\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\n    <option name=\"x\" value=\"677\" />\n    <option name=\"width\" value=\"697\" />\n    <option name=\"height\" value=\"775\" />\n  </component>\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectView\">\n    <navigator currentView=\"ProjectPane\" proportions=\"\" version=\"1\">\n      <flattenPackages />\n      <showMembers />\n      <showModules />\n      <showLibraryContents />\n      <hideEmptyPackages />\n      <abbreviatePackageNames />\n      <autoscrollToSource />\n      <autoscrollFromSource />\n      <sortByType />\n      <manualOrder />\n      <foldersAlwaysOnTop value=\"true\" />\n    </navigator>\n    <panes>\n      <pane id=\"Scratches\" />\n      <pane id=\"ProjectPane\">\n        <subPane>\n          <expand>\n            <path>\n              <item name=\"HackerRankDataStructures\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"HackerRankDataStructures\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"HackerRankDataStructures\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"HackerRankDataStructures\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n          </expand>\n          <select />\n        </subPane>\n      </pane>\n      <pane id=\"Scope\" />\n      <pane id=\"PackagesPane\" />\n    </panes>\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n    <property name=\"project.structure.last.edited\" value=\"Modules\" />\n    <property name=\"project.structure.proportion\" value=\"0.0\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.0\" />\n    <property name=\"last_opened_file_path\" value=\"$USER_HOME$/Downloads/gson-2.6.2-javadoc.jar!/\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.lookFeel\" />\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"ruleStates\">\n      <list>\n        <RuleState>\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\n        </RuleState>\n        <RuleState>\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\n        </RuleState>\n      </list>\n    </option>\n  </component>\n  <component name=\"RunManager\" selected=\"Application.ArrayQuiz\">\n    <configuration default=\"true\" type=\"Applet\" factoryName=\"Applet\">\n      <option name=\"WIDTH\" value=\"400\" />\n      <option name=\"HEIGHT\" value=\"300\" />\n      <option name=\"POLICY_FILE\" value=\"$APPLICATION_HOME_DIR$/bin/appletviewer.policy\" />\n      <module />\n    </configuration>\n    <configuration name=\"ArrayQuiz\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"ArrayQuiz\" />\n      <option name=\"VM_PARAMETERS\" />\n      <option name=\"PROGRAM_PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"ENABLE_SWING_INSPECTOR\" value=\"false\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <module name=\"HackerRankDataStructures\" />\n      <envs />\n    </configuration>\n    <configuration name=\"GenericFunc\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"GenericFunc\" />\n      <option name=\"VM_PARAMETERS\" />\n      <option name=\"PROGRAM_PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"ENABLE_SWING_INSPECTOR\" value=\"false\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <module name=\"HackerRankDataStructures\" />\n      <envs />\n    </configuration>\n    <configuration name=\"HashSetH\" type=\"Application\" factoryName=\"Application\" nameIsGenerated=\"true\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"HashSetH\" />\n      <option name=\"VM_PARAMETERS\" />\n      <option name=\"PROGRAM_PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"ENABLE_SWING_INSPECTOR\" value=\"false\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <module name=\"HackerRankDataStructures\" />\n      <envs />\n    </configuration>\n    <configuration name=\"Solution\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"Solution\" />\n      <option name=\"VM_PARAMETERS\" />\n      <option name=\"PROGRAM_PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"ENABLE_SWING_INSPECTOR\" value=\"false\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <module name=\"HackerRankDataStructures\" />\n      <envs />\n    </configuration>\n    <configuration name=\"Solution12\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"Solution12\" />\n      <option name=\"VM_PARAMETERS\" />\n      <option name=\"PROGRAM_PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"ENABLE_SWING_INSPECTOR\" value=\"false\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <module name=\"HackerRankDataStructures\" />\n      <envs />\n    </configuration>\n    <configuration name=\"Sub\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"Sub\" />\n      <option name=\"VM_PARAMETERS\" />\n      <option name=\"PROGRAM_PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"ENABLE_SWING_INSPECTOR\" value=\"false\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <module name=\"HackerRankDataStructures\" />\n      <envs />\n    </configuration>\n    <configuration default=\"true\" type=\"Application\" factoryName=\"Application\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"VM_PARAMETERS\" />\n      <option name=\"PROGRAM_PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"ENABLE_SWING_INSPECTOR\" value=\"false\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <module name=\"\" />\n      <envs />\n    </configuration>\n    <configuration default=\"true\" type=\"JUnit\" factoryName=\"JUnit\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <module name=\"\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"PACKAGE_NAME\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"METHOD_NAME\" />\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <option name=\"VM_PARAMETERS\" value=\"-ea\" />\n      <option name=\"PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"%MODULE_WORKING_DIR%\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <option name=\"TEST_SEARCH_SCOPE\">\n        <value defaultName=\"singleModule\" />\n      </option>\n      <envs />\n      <patterns />\n    </configuration>\n    <configuration default=\"true\" type=\"Remote\" factoryName=\"Remote\">\n      <option name=\"USE_SOCKET_TRANSPORT\" value=\"true\" />\n      <option name=\"SERVER_MODE\" value=\"false\" />\n      <option name=\"SHMEM_ADDRESS\" value=\"javadebug\" />\n      <option name=\"HOST\" value=\"localhost\" />\n      <option name=\"PORT\" value=\"5005\" />\n    </configuration>\n    <configuration default=\"true\" type=\"TestNG\" factoryName=\"TestNG\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <module name=\"\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"SUITE_NAME\" />\n      <option name=\"PACKAGE_NAME\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"METHOD_NAME\" />\n      <option name=\"GROUP_NAME\" />\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\n      <option name=\"VM_PARAMETERS\" value=\"-ea\" />\n      <option name=\"PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"%MODULE_WORKING_DIR%\" />\n      <option name=\"OUTPUT_DIRECTORY\" />\n      <option name=\"ANNOTATION_TYPE\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <option name=\"TEST_SEARCH_SCOPE\">\n        <value defaultName=\"singleModule\" />\n      </option>\n      <option name=\"USE_DEFAULT_REPORTERS\" value=\"false\" />\n      <option name=\"PROPERTIES_FILE\" />\n      <envs />\n      <properties />\n      <listeners />\n    </configuration>\n    <configuration default=\"true\" type=\"#org.jetbrains.idea.devkit.run.PluginConfigurationType\" factoryName=\"Plugin\">\n      <module name=\"\" />\n      <option name=\"VM_PARAMETERS\" value=\"-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea\" />\n      <option name=\"PROGRAM_PARAMETERS\" />\n      <predefined_log_file id=\"idea.log\" enabled=\"true\" />\n    </configuration>\n    <list size=\"6\">\n      <item index=\"0\" class=\"java.lang.String\" itemvalue=\"Application.HashSetH\" />\n      <item index=\"1\" class=\"java.lang.String\" itemvalue=\"Application.Solution12\" />\n      <item index=\"2\" class=\"java.lang.String\" itemvalue=\"Application.Solution\" />\n      <item index=\"3\" class=\"java.lang.String\" itemvalue=\"Application.GenericFunc\" />\n      <item index=\"4\" class=\"java.lang.String\" itemvalue=\"Application.ArrayQuiz\" />\n      <item index=\"5\" class=\"java.lang.String\" itemvalue=\"Application.Sub\" />\n    </list>\n    <recent_temporary>\n      <list size=\"5\">\n        <item index=\"0\" class=\"java.lang.String\" itemvalue=\"Application.ArrayQuiz\" />\n        <item index=\"1\" class=\"java.lang.String\" itemvalue=\"Application.Sub\" />\n        <item index=\"2\" class=\"java.lang.String\" itemvalue=\"Application.GenericFunc\" />\n        <item index=\"3\" class=\"java.lang.String\" itemvalue=\"Application.Solution\" />\n        <item index=\"4\" class=\"java.lang.String\" itemvalue=\"Application.Solution12\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SbtLocalSettings\">\n    <option name=\"externalProjectsViewState\">\n      <projects_view />\n    </option>\n    <option name=\"projectSyncType\">\n      <map>\n        <entry key=\"$USER_HOME$/Downloads/play-java-ebean-example-2.6.x/play-java-ebean-example-2.6.x\" value=\"PREVIEW\" />\n        <entry key=\"$USER_HOME$/Downloads/play-java-starter-example/play-java-starter-example\" value=\"PREVIEW\" />\n      </map>\n    </option>\n  </component>\n  <component name=\"ShelveChangesManager\" show_recycled=\"false\">\n    <option name=\"remove_strategy\" value=\"false\" />\n  </component>\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"1709b37a-454f-4c48-943c-1070af0ebb65\" name=\"Default\" comment=\"\" />\n      <created>1519323796227</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1519323796227</updated>\n      <workItem from=\"1519323797817\" duration=\"484000\" />\n      <workItem from=\"1519324342900\" duration=\"3280000\" />\n      <workItem from=\"1519753619032\" duration=\"3147000\" />\n      <workItem from=\"1519856662012\" duration=\"348000\" />\n      <workItem from=\"1523037673379\" duration=\"1886000\" />\n      <workItem from=\"1523050512944\" duration=\"460000\" />\n      <workItem from=\"1523126012464\" duration=\"4901000\" />\n      <workItem from=\"1523625069739\" duration=\"65000\" />\n      <workItem from=\"1523984810956\" duration=\"795000\" />\n      <workItem from=\"1524506154187\" duration=\"38000\" />\n      <workItem from=\"1525029897209\" duration=\"6006000\" />\n      <workItem from=\"1525182671301\" duration=\"1299000\" />\n      <workItem from=\"1526143743972\" duration=\"47000\" />\n      <workItem from=\"1526143846611\" duration=\"1262000\" />\n      <workItem from=\"1526236327711\" duration=\"4726000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Sort implemented with java8\">\n      <created>1519325759759</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1519325759759</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Comparator implemented with java8 and Comparator interface\">\n      <created>1519326676129</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1519326676129</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Arraylist and scanner done!!\">\n      <created>1523039498594</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1523039498594</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Arraylist and scanner done!!\">\n      <created>1525030416327</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1525030416327</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Arraylist and scanner done!!\">\n      <created>1525031958242</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1525031958242</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Quiz for Single and twoD Array Done!!\">\n      <created>1526237014316</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1526237014316</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"Abstract class quiz done!!\">\n      <created>1526238840040</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1526238840040</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"8\" />\n    <servers />\n  </component>\n  <component name=\"TimeTrackingManager\">\n    <option name=\"totallyTimeSpent\" value=\"28744000\" />\n  </component>\n  <component name=\"ToolWindowManager\">\n    <frame x=\"-8\" y=\"-8\" width=\"1382\" height=\"784\" extended-state=\"6\" />\n    <layout>\n      <window_info id=\"Palette\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"TODO\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"6\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Messages\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.3276923\" sideWeight=\"0.5\" order=\"7\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Palette&#9;\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Event Log\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.36445785\" sideWeight=\"0.5051395\" order=\"7\" side_tool=\"true\" content_ui=\"tabs\" />\n      <window_info id=\"Maven Projects\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Run\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.36882716\" sideWeight=\"0.4948605\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Version Control\" active=\"true\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"true\" show_stripe_button=\"true\" weight=\"0.47376543\" sideWeight=\"0.5\" order=\"7\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Terminal\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"7\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Designer\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Project\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"true\" show_stripe_button=\"true\" weight=\"0.23146747\" sideWeight=\"0.5\" order=\"0\" side_tool=\"false\" content_ui=\"combo\" />\n      <window_info id=\"Database\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Learn\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Structure\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.25\" sideWeight=\"0.5\" order=\"1\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Ant Build\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.25\" sideWeight=\"0.5\" order=\"1\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"UI Designer\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Debug\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.30246913\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Favorites\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"true\" content_ui=\"tabs\" />\n      <window_info id=\"Cvs\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.25\" sideWeight=\"0.5\" order=\"4\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Message\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"0\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Commander\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.4\" sideWeight=\"0.5\" order=\"0\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Inspection\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.4\" sideWeight=\"0.5\" order=\"5\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Hierarchy\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.25\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"combo\" />\n      <window_info id=\"Find\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"1\" side_tool=\"false\" content_ui=\"tabs\" />\n    </layout>\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"1\" />\n  </component>\n  <component name=\"VcsContentAnnotationSettings\">\n    <option name=\"myLimit\" value=\"2678400000\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Sort implemented with java8\" />\n    <MESSAGE value=\"Comparator implemented with java8 and Comparator interface\" />\n    <MESSAGE value=\"Arraylist and scanner done!!\" />\n    <MESSAGE value=\"Quiz for Single and twoD Array Done!!\" />\n    <MESSAGE value=\"Abstract class quiz done!!\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Abstract class quiz done!!\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/GoogleSample.java</url>\n          <line>11</line>\n          <properties />\n          <option name=\"timeStamp\" value=\"2\" />\n        </line-breakpoint>\n      </breakpoints>\n      <option name=\"time\" value=\"10\" />\n    </breakpoint-manager>\n    <watches-manager>\n      <configuration name=\"Application\">\n        <watch expression=\"s.substring(0,module-1)\" />\n      </configuration>\n    </watches-manager>\n  </component>\n  <component name=\"editorHistoryManager\">\n    <entry file=\"file://$PROJECT_DIR$/src/Main.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"119\">\n          <caret line=\"13\" column=\"61\" lean-forward=\"false\" selection-start-line=\"13\" selection-start-column=\"61\" selection-end-line=\"13\" selection-end-column=\"61\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/ArraylistHack.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"17\">\n          <caret line=\"2\" column=\"13\" lean-forward=\"false\" selection-start-line=\"2\" selection-start-column=\"13\" selection-end-line=\"2\" selection-end-column=\"13\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/GenericFunc.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"544\">\n          <caret line=\"34\" column=\"8\" lean-forward=\"false\" selection-start-line=\"34\" selection-start-column=\"8\" selection-end-line=\"34\" selection-end-column=\"8\" />\n          <folding>\n            <element signature=\"e#726#727#0\" expanded=\"false\" />\n            <element signature=\"e#775#776#0\" expanded=\"false\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/TestOverriding.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"187\">\n          <caret line=\"15\" column=\"5\" lean-forward=\"true\" selection-start-line=\"15\" selection-start-column=\"5\" selection-end-line=\"15\" selection-end-column=\"5\" />\n          <folding>\n            <element signature=\"e#201#202#0\" expanded=\"false\" />\n            <element signature=\"e#251#252#0\" expanded=\"false\" />\n            <element signature=\"e#308#309#0\" expanded=\"false\" />\n            <element signature=\"e#356#357#0\" expanded=\"false\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/Main.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"119\">\n          <caret line=\"13\" column=\"61\" lean-forward=\"false\" selection-start-line=\"13\" selection-start-column=\"61\" selection-end-line=\"13\" selection-end-column=\"61\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/GenericFunc.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"544\">\n          <caret line=\"34\" column=\"8\" lean-forward=\"false\" selection-start-line=\"34\" selection-start-column=\"8\" selection-end-line=\"34\" selection-end-column=\"8\" />\n          <folding>\n            <element signature=\"e#726#727#0\" expanded=\"false\" />\n            <element signature=\"e#775#776#0\" expanded=\"false\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/ArraylistHack.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"17\">\n          <caret line=\"2\" column=\"13\" lean-forward=\"false\" selection-start-line=\"2\" selection-start-column=\"13\" selection-end-line=\"2\" selection-end-column=\"13\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/TestOverriding.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding>\n            <element signature=\"e#201#202#0\" expanded=\"false\" />\n            <element signature=\"e#251#252#0\" expanded=\"false\" />\n            <element signature=\"e#308#309#0\" expanded=\"false\" />\n            <element signature=\"e#356#357#0\" expanded=\"false\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/Main.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"119\">\n          <caret line=\"13\" column=\"61\" lean-forward=\"false\" selection-start-line=\"13\" selection-start-column=\"61\" selection-end-line=\"13\" selection-end-column=\"61\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/ArraylistHack.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"17\">\n          <caret line=\"2\" column=\"13\" lean-forward=\"false\" selection-start-line=\"2\" selection-start-column=\"13\" selection-end-line=\"2\" selection-end-column=\"13\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/GenericFunc.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"544\">\n          <caret line=\"34\" column=\"8\" lean-forward=\"false\" selection-start-line=\"34\" selection-start-column=\"8\" selection-end-line=\"34\" selection-end-column=\"8\" />\n          <folding>\n            <element signature=\"e#726#727#0\" expanded=\"false\" />\n            <element signature=\"e#775#776#0\" expanded=\"false\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/TestOverriding.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding>\n            <element signature=\"e#201#202#0\" expanded=\"false\" />\n            <element signature=\"e#251#252#0\" expanded=\"false\" />\n            <element signature=\"e#308#309#0\" expanded=\"false\" />\n            <element signature=\"e#356#357#0\" expanded=\"false\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/Main.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"221\">\n          <caret line=\"13\" column=\"61\" lean-forward=\"false\" selection-start-line=\"13\" selection-start-column=\"61\" selection-end-line=\"13\" selection-end-column=\"61\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/ArraylistHack.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"34\">\n          <caret line=\"2\" column=\"13\" lean-forward=\"false\" selection-start-line=\"2\" selection-start-column=\"13\" selection-end-line=\"2\" selection-end-column=\"13\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/GenericFunc.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"578\">\n          <caret line=\"34\" column=\"8\" lean-forward=\"false\" selection-start-line=\"34\" selection-start-column=\"8\" selection-end-line=\"34\" selection-end-column=\"8\" />\n          <folding>\n            <element signature=\"e#726#727#0\" expanded=\"false\" />\n            <element signature=\"e#775#776#0\" expanded=\"false\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/TestOverriding.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding>\n            <element signature=\"e#201#202#0\" expanded=\"false\" />\n            <element signature=\"e#251#252#0\" expanded=\"false\" />\n            <element signature=\"e#308#309#0\" expanded=\"false\" />\n            <element signature=\"e#356#357#0\" expanded=\"false\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/Main.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"119\">\n          <caret line=\"13\" column=\"61\" lean-forward=\"false\" selection-start-line=\"13\" selection-start-column=\"61\" selection-end-line=\"13\" selection-end-column=\"61\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/ArraylistHack.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"17\">\n          <caret line=\"2\" column=\"13\" lean-forward=\"false\" selection-start-line=\"2\" selection-start-column=\"13\" selection-end-line=\"2\" selection-end-column=\"13\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/GenericFunc.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"187\">\n          <caret line=\"11\" column=\"5\" lean-forward=\"false\" selection-start-line=\"11\" selection-start-column=\"5\" selection-end-line=\"11\" selection-end-column=\"5\" />\n          <folding>\n            <element signature=\"e#726#727#0\" expanded=\"false\" />\n            <element signature=\"e#775#776#0\" expanded=\"false\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/Main.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"221\">\n          <caret line=\"13\" column=\"61\" lean-forward=\"true\" selection-start-line=\"13\" selection-start-column=\"61\" selection-end-line=\"13\" selection-end-column=\"61\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/ArraylistHack.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"34\">\n          <caret line=\"2\" column=\"13\" lean-forward=\"false\" selection-start-line=\"2\" selection-start-column=\"13\" selection-end-line=\"2\" selection-end-column=\"13\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/GenericFunc.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"187\">\n          <caret line=\"11\" column=\"5\" lean-forward=\"true\" selection-start-line=\"11\" selection-start-column=\"5\" selection-end-line=\"11\" selection-end-column=\"5\" />\n          <folding>\n            <element signature=\"e#726#727#0\" expanded=\"false\" />\n            <element signature=\"e#775#776#0\" expanded=\"false\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/Solution.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/Solution12.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"161\">\n          <caret line=\"21\" column=\"19\" lean-forward=\"false\" selection-start-line=\"21\" selection-start-column=\"19\" selection-end-line=\"21\" selection-end-column=\"19\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/GoogleSample.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"382\">\n          <caret line=\"36\" column=\"42\" lean-forward=\"true\" selection-start-line=\"36\" selection-start-column=\"42\" selection-end-line=\"36\" selection-end-column=\"43\" />\n          <folding>\n            <element signature=\"e#70#71#0\" expanded=\"true\" />\n            <element signature=\"e#129#130#0\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/Solution.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"272\">\n          <caret line=\"16\" column=\"1\" lean-forward=\"false\" selection-start-line=\"16\" selection-start-column=\"1\" selection-end-line=\"16\" selection-end-column=\"1\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/Main.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"119\">\n          <caret line=\"13\" column=\"61\" lean-forward=\"false\" selection-start-line=\"13\" selection-start-column=\"61\" selection-end-line=\"13\" selection-end-column=\"61\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/ArraylistHack.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"17\">\n          <caret line=\"2\" column=\"13\" lean-forward=\"false\" selection-start-line=\"2\" selection-start-column=\"13\" selection-end-line=\"2\" selection-end-column=\"13\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/GenericFunc.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"544\">\n          <caret line=\"34\" column=\"8\" lean-forward=\"false\" selection-start-line=\"34\" selection-start-column=\"8\" selection-end-line=\"34\" selection-end-column=\"8\" />\n          <folding>\n            <element signature=\"e#726#727#0\" expanded=\"false\" />\n            <element signature=\"e#775#776#0\" expanded=\"false\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/TestOverriding.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"255\">\n          <caret line=\"15\" column=\"5\" lean-forward=\"false\" selection-start-line=\"15\" selection-start-column=\"5\" selection-end-line=\"15\" selection-end-column=\"5\" />\n          <folding>\n            <element signature=\"e#201#202#0\" expanded=\"false\" />\n            <element signature=\"e#251#252#0\" expanded=\"false\" />\n            <element signature=\"e#308#309#0\" expanded=\"false\" />\n            <element signature=\"e#356#357#0\" expanded=\"false\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/Base.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"153\">\n          <caret line=\"24\" column=\"27\" lean-forward=\"true\" selection-start-line=\"24\" selection-start-column=\"27\" selection-end-line=\"24\" selection-end-column=\"27\" />\n          <folding>\n            <element signature=\"e#286#287#0\" expanded=\"true\" />\n            <element signature=\"e#337#338#0\" expanded=\"true\" />\n            <element signature=\"e#358#359#0\" expanded=\"true\" />\n            <element signature=\"e#380#381#0\" expanded=\"true\" />\n            <element signature=\"e#406#407#0\" expanded=\"true\" />\n            <element signature=\"e#442#443#0\" expanded=\"true\" />\n            <element signature=\"e#484#485#0\" expanded=\"true\" />\n            <element signature=\"e#503#504#0\" expanded=\"true\" />\n            <element signature=\"e#523#524#0\" expanded=\"true\" />\n            <element signature=\"e#548#549#0\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/ArrayQuiz.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"187\">\n          <caret line=\"11\" column=\"84\" lean-forward=\"false\" selection-start-line=\"11\" selection-start-column=\"84\" selection-end-line=\"11\" selection-end-column=\"84\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n  </component>\n  <component name=\"masterDetails\">\n    <states>\n      <state key=\"ArtifactsStructureConfigurable.UI\">\n        <settings>\n          <artifact-editor />\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"FacetStructureConfigurable.UI\">\n        <settings>\n          <last-edited>No facets are configured</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"GlobalLibrariesConfigurable.UI\">\n        <settings>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"JdkListConfigurable.UI\">\n        <settings>\n          <last-edited>9.0</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ModuleStructureConfigurable.UI\">\n        <settings>\n          <last-edited>HackerRankDataStructures</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ProjectJDKs.UI\">\n        <settings>\n          <last-edited>1.8</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ProjectLibrariesConfigurable.UI\">\n        <settings>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n    </states>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 5bb8082e494ac8aee8efe89643141bc5abfc4a14)
++++ .idea/workspace.xml	(date 1527299695435)
+@@ -2,8 +2,9 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="1709b37a-454f-4c48-943c-1070af0ebb65" name="Default" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+-      <change beforePath="$PROJECT_DIR$/src/ArrayQuiz.java" afterPath="$PROJECT_DIR$/src/ArrayQuiz.java" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/ArrayQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQuiz.java" afterDir="false" />
+     </list>
+     <ignored path="$PROJECT_DIR$/out/" />
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+@@ -24,8 +25,8 @@
+       <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/src/Base.java">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="153">
+-              <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
++            <state relative-caret-position="360">
++              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+               <folding>
+                 <element signature="e#286#287#0" expanded="true" />
+                 <element signature="e#337#338#0" expanded="true" />
+@@ -45,9 +46,20 @@
+       <file leaf-file-name="ArrayQuiz.java" pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/src/ArrayQuiz.java">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="187">
+-              <caret line="11" column="84" lean-forward="false" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
+-              <folding />
++            <state relative-caret-position="418">
++              <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file leaf-file-name="ArraylistHack.java" pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="40">
++              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
++              <folding>
++                <element signature="imports" expanded="true" />
++              </folding>
+             </state>
+           </provider>
+         </entry>
+@@ -68,9 +80,6 @@
+     </option>
+   </component>
+   <component name="GradleLocalSettings">
+-    <option name="externalProjectsViewState">
+-      <projects_view />
+-    </option>
+     <option name="projectSyncType">
+       <map>
+         <entry key="$USER_HOME$/Downloads/play-java-starter-example-2.6.x/play-java-starter-example-2.6.x" value="PREVIEW" />
+@@ -103,6 +112,9 @@
+     <detection-done>true</detection-done>
+     <sorting>DEFINITION_ORDER</sorting>
+   </component>
++  <component name="NodePackageJsonFileManager">
++    <packageJsonPaths />
++  </component>
+   <component name="ProjectFrameBounds" extendedState="6">
+     <option name="x" value="677" />
+     <option name="width" value="697" />
+@@ -112,21 +124,13 @@
+     <ConfirmationsSetting value="2" id="Add" />
+   </component>
+   <component name="ProjectView">
+-    <navigator currentView="ProjectPane" proportions="" version="1">
+-      <flattenPackages />
+-      <showMembers />
+-      <showModules />
+-      <showLibraryContents />
+-      <hideEmptyPackages />
+-      <abbreviatePackageNames />
+-      <autoscrollToSource />
+-      <autoscrollFromSource />
+-      <sortByType />
+-      <manualOrder />
++    <navigator proportions="" version="1">
+       <foldersAlwaysOnTop value="true" />
+     </navigator>
+     <panes>
+-      <pane id="Scratches" />
++      <pane id="AndroidView" />
++      <pane id="Scope" />
++      <pane id="PackagesPane" />
+       <pane id="ProjectPane">
+         <subPane>
+           <expand>
+@@ -143,18 +147,16 @@
+           <select />
+         </subPane>
+       </pane>
+-      <pane id="Scope" />
+-      <pane id="PackagesPane" />
+     </panes>
+   </component>
+   <component name="PropertiesComponent">
+-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="aspect.path.notification.shown" value="true" />
+-    <property name="project.structure.last.edited" value="Modules" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
++    <property name="project.structure.last.edited" value="Project" />
+     <property name="project.structure.proportion" value="0.0" />
+-    <property name="project.structure.side.proportion" value="0.0" />
+-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/gson-2.6.2-javadoc.jar!/" />
++    <property name="project.structure.side.proportion" value="0.2" />
+     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+   </component>
+   <component name="RunDashboard">
+@@ -171,112 +173,42 @@
+   </component>
+   <component name="RunManager" selected="Application.ArrayQuiz">
+     <configuration default="true" type="Applet" factoryName="Applet">
+-      <option name="WIDTH" value="400" />
+-      <option name="HEIGHT" value="300" />
+       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+-      <module />
+     </configuration>
+     <configuration name="ArrayQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+       <option name="MAIN_CLASS_NAME" value="ArrayQuiz" />
+-      <option name="VM_PARAMETERS" />
+-      <option name="PROGRAM_PARAMETERS" />
++      <module name="HackerRankDataStructures" />
+       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+-      <option name="ALTERNATIVE_JRE_PATH" />
+-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+-      <option name="ENV_VARIABLES" />
+-      <option name="PASS_PARENT_ENVS" value="true" />
+-      <module name="HackerRankDataStructures" />
+-      <envs />
+     </configuration>
+     <configuration name="GenericFunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+       <option name="MAIN_CLASS_NAME" value="GenericFunc" />
+-      <option name="VM_PARAMETERS" />
+-      <option name="PROGRAM_PARAMETERS" />
++      <module name="HackerRankDataStructures" />
+       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+-      <option name="ALTERNATIVE_JRE_PATH" />
+-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+-      <option name="ENV_VARIABLES" />
+-      <option name="PASS_PARENT_ENVS" value="true" />
+-      <module name="HackerRankDataStructures" />
+-      <envs />
+     </configuration>
+     <configuration name="HashSetH" type="Application" factoryName="Application" nameIsGenerated="true">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+       <option name="MAIN_CLASS_NAME" value="HashSetH" />
+-      <option name="VM_PARAMETERS" />
+-      <option name="PROGRAM_PARAMETERS" />
++      <module name="HackerRankDataStructures" />
+       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+-      <option name="ALTERNATIVE_JRE_PATH" />
+-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+-      <option name="ENV_VARIABLES" />
+-      <option name="PASS_PARENT_ENVS" value="true" />
+-      <module name="HackerRankDataStructures" />
+-      <envs />
+     </configuration>
+     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+       <option name="MAIN_CLASS_NAME" value="Solution" />
+-      <option name="VM_PARAMETERS" />
+-      <option name="PROGRAM_PARAMETERS" />
++      <module name="HackerRankDataStructures" />
+       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+-      <option name="ALTERNATIVE_JRE_PATH" />
+-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+-      <option name="ENV_VARIABLES" />
+-      <option name="PASS_PARENT_ENVS" value="true" />
+-      <module name="HackerRankDataStructures" />
+-      <envs />
+     </configuration>
+     <configuration name="Solution12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+       <option name="MAIN_CLASS_NAME" value="Solution12" />
+-      <option name="VM_PARAMETERS" />
+-      <option name="PROGRAM_PARAMETERS" />
++      <module name="HackerRankDataStructures" />
+       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+-      <option name="ALTERNATIVE_JRE_PATH" />
+-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+-      <option name="ENV_VARIABLES" />
+-      <option name="PASS_PARENT_ENVS" value="true" />
+-      <module name="HackerRankDataStructures" />
+-      <envs />
+     </configuration>
+     <configuration name="Sub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+       <option name="MAIN_CLASS_NAME" value="Sub" />
+-      <option name="VM_PARAMETERS" />
+-      <option name="PROGRAM_PARAMETERS" />
++      <module name="HackerRankDataStructures" />
+       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+-      <option name="ALTERNATIVE_JRE_PATH" />
+-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+-      <option name="ENV_VARIABLES" />
+-      <option name="PASS_PARENT_ENVS" value="true" />
+-      <module name="HackerRankDataStructures" />
+-      <envs />
+     </configuration>
+     <configuration default="true" type="Application" factoryName="Application">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+-      <option name="MAIN_CLASS_NAME" />
+-      <option name="VM_PARAMETERS" />
+-      <option name="PROGRAM_PARAMETERS" />
+       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+-      <option name="ALTERNATIVE_JRE_PATH" />
+-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+-      <option name="ENV_VARIABLES" />
+-      <option name="PASS_PARENT_ENVS" value="true" />
+-      <module name="" />
+-      <envs />
+     </configuration>
+     <configuration default="true" type="JUnit" factoryName="JUnit">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+-      <module name="" />
+       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+       <option name="ALTERNATIVE_JRE_PATH" />
+       <option name="PACKAGE_NAME" />
+@@ -286,24 +218,13 @@
+       <option name="VM_PARAMETERS" value="-ea" />
+       <option name="PARAMETERS" />
+       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+-      <option name="ENV_VARIABLES" />
+       <option name="PASS_PARENT_ENVS" value="true" />
+       <option name="TEST_SEARCH_SCOPE">
+         <value defaultName="singleModule" />
+       </option>
+-      <envs />
+       <patterns />
+-    </configuration>
+-    <configuration default="true" type="Remote" factoryName="Remote">
+-      <option name="USE_SOCKET_TRANSPORT" value="true" />
+-      <option name="SERVER_MODE" value="false" />
+-      <option name="SHMEM_ADDRESS" value="javadebug" />
+-      <option name="HOST" value="localhost" />
+-      <option name="PORT" value="5005" />
+     </configuration>
+     <configuration default="true" type="TestNG" factoryName="TestNG">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+-      <module name="" />
+       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+       <option name="ALTERNATIVE_JRE_PATH" />
+       <option name="SUITE_NAME" />
+@@ -316,39 +237,30 @@
+       <option name="PARAMETERS" />
+       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+       <option name="OUTPUT_DIRECTORY" />
+-      <option name="ANNOTATION_TYPE" />
+-      <option name="ENV_VARIABLES" />
+       <option name="PASS_PARENT_ENVS" value="true" />
+       <option name="TEST_SEARCH_SCOPE">
+         <value defaultName="singleModule" />
+       </option>
+       <option name="USE_DEFAULT_REPORTERS" value="false" />
+       <option name="PROPERTIES_FILE" />
+-      <envs />
+       <properties />
+       <listeners />
+     </configuration>
+-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+-      <module name="" />
+-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+-      <option name="PROGRAM_PARAMETERS" />
+-      <predefined_log_file id="idea.log" enabled="true" />
+-    </configuration>
+-    <list size="6">
+-      <item index="0" class="java.lang.String" itemvalue="Application.HashSetH" />
+-      <item index="1" class="java.lang.String" itemvalue="Application.Solution12" />
+-      <item index="2" class="java.lang.String" itemvalue="Application.Solution" />
+-      <item index="3" class="java.lang.String" itemvalue="Application.GenericFunc" />
+-      <item index="4" class="java.lang.String" itemvalue="Application.ArrayQuiz" />
+-      <item index="5" class="java.lang.String" itemvalue="Application.Sub" />
++    <list>
++      <item itemvalue="Application.HashSetH" />
++      <item itemvalue="Application.Solution12" />
++      <item itemvalue="Application.Solution" />
++      <item itemvalue="Application.GenericFunc" />
++      <item itemvalue="Application.ArrayQuiz" />
++      <item itemvalue="Application.Sub" />
+     </list>
+     <recent_temporary>
+-      <list size="5">
+-        <item index="0" class="java.lang.String" itemvalue="Application.ArrayQuiz" />
+-        <item index="1" class="java.lang.String" itemvalue="Application.Sub" />
+-        <item index="2" class="java.lang.String" itemvalue="Application.GenericFunc" />
+-        <item index="3" class="java.lang.String" itemvalue="Application.Solution" />
+-        <item index="4" class="java.lang.String" itemvalue="Application.Solution12" />
++      <list>
++        <item itemvalue="Application.ArrayQuiz" />
++        <item itemvalue="Application.Sub" />
++        <item itemvalue="Application.GenericFunc" />
++        <item itemvalue="Application.Solution" />
++        <item itemvalue="Application.Solution12" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -363,9 +275,6 @@
+       </map>
+     </option>
+   </component>
+-  <component name="ShelveChangesManager" show_recycled="false">
+-    <option name="remove_strategy" value="false" />
+-  </component>
+   <component name="SvnConfiguration">
+     <configuration />
+   </component>
+@@ -390,7 +299,9 @@
+       <workItem from="1525182671301" duration="1299000" />
+       <workItem from="1526143743972" duration="47000" />
+       <workItem from="1526143846611" duration="1262000" />
+-      <workItem from="1526236327711" duration="4726000" />
++      <workItem from="1526236327711" duration="4793000" />
++      <workItem from="1526313621033" duration="1695000" />
++      <workItem from="1527299258403" duration="397000" />
+     </task>
+     <task id="LOCAL-00001" summary="Sort implemented with java8">
+       <created>1519325759759</created>
+@@ -441,39 +352,52 @@
+       <option name="project" value="LOCAL" />
+       <updated>1526238840040</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="Bifunction  added!!">
++      <created>1526244364277</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1526244364277</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="28744000" />
++    <option name="totallyTimeSpent" value="30903000" />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
++    <editor active="true" />
+     <layout>
+-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36445785" sideWeight="0.5051395" order="7" side_tool="true" content_ui="tabs" />
+-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36882716" sideWeight="0.4948605" order="2" side_tool="false" content_ui="tabs" />
+-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47376543" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23146747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+-      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30246913" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
++      <window_info anchor="right" id="Palette" order="3" />
++      <window_info anchor="bottom" id="TODO" order="6" />
++      <window_info anchor="bottom" id="Messages" order="7" weight="0.32662538" />
++      <window_info anchor="right" id="Palette&#9;" order="3" />
++      <window_info id="Image Layers" />
++      <window_info anchor="right" id="Capture Analysis" />
++      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5051395" side_tool="true" weight="0.36445785" />
++      <window_info anchor="right" id="Maven Projects" order="3" />
++      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
++      <window_info anchor="bottom" id="Version Control" order="7" weight="0.083591335" />
++      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4948605" weight="0.36882716" />
++      <window_info anchor="bottom" id="Terminal" order="7" />
++      <window_info id="Capture Tool" />
++      <window_info id="Designer" order="2" />
++      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15431164" />
++      <window_info anchor="right" id="Database" order="3" />
++      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
++      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
++      <window_info id="UI Designer" order="2" />
++      <window_info anchor="right" id="Theme Preview" />
++      <window_info id="Favorites" order="2" side_tool="true" />
++      <window_info anchor="bottom" id="Debug" order="3" weight="0.30246913" />
++      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
++      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
++      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
++      <window_info anchor="bottom" id="Message" order="0" />
++      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
++      <window_info anchor="bottom" id="Find" order="1" />
++      <window_info id="Learn" order="2" />
+     </layout>
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -488,7 +412,8 @@
+     <MESSAGE value="Arraylist and scanner done!!" />
+     <MESSAGE value="Quiz for Single and twoD Array Done!!" />
+     <MESSAGE value="Abstract class quiz done!!" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Abstract class quiz done!!" />
++    <MESSAGE value="Bifunction  added!!" />
++    <option name="LAST_COMMIT_MESSAGE" value="Bifunction  added!!" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+@@ -509,30 +434,76 @@
+     </watches-manager>
+   </component>
+   <component name="editorHistoryManager">
++    <entry file="file://$PROJECT_DIR$/src/Base.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="360">
++          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
++          <folding>
++            <element signature="e#286#287#0" expanded="true" />
++            <element signature="e#337#338#0" expanded="true" />
++            <element signature="e#358#359#0" expanded="true" />
++            <element signature="e#380#381#0" expanded="true" />
++            <element signature="e#406#407#0" expanded="true" />
++            <element signature="e#442#443#0" expanded="true" />
++            <element signature="e#484#485#0" expanded="true" />
++            <element signature="e#503#504#0" expanded="true" />
++            <element signature="e#523#524#0" expanded="true" />
++            <element signature="e#548#549#0" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/ArrayQuiz.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="100">
++          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/Base.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="408">
++          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
++          <folding>
++            <element signature="e#286#287#0" expanded="true" />
++            <element signature="e#337#338#0" expanded="true" />
++            <element signature="e#358#359#0" expanded="true" />
++            <element signature="e#380#381#0" expanded="true" />
++            <element signature="e#406#407#0" expanded="true" />
++            <element signature="e#442#443#0" expanded="true" />
++            <element signature="e#484#485#0" expanded="true" />
++            <element signature="e#503#504#0" expanded="true" />
++            <element signature="e#523#524#0" expanded="true" />
++            <element signature="e#548#549#0" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/ArrayQuiz.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="187">
++          <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
++        </state>
++      </provider>
++    </entry>
+     <entry file="file://$PROJECT_DIR$/src/Main.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="119">
+-          <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+-          <folding />
++          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="17">
+-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+-          <folding />
++          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/GenericFunc.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="544">
+-          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+-          <folding>
+-            <element signature="e#726#727#0" expanded="false" />
+-            <element signature="e#775#776#0" expanded="false" />
+-          </folding>
++          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+         </state>
+       </provider>
+     </entry>
+@@ -540,159 +511,99 @@
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="187">
+           <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+-          <folding>
+-            <element signature="e#201#202#0" expanded="false" />
+-            <element signature="e#251#252#0" expanded="false" />
+-            <element signature="e#308#309#0" expanded="false" />
+-            <element signature="e#356#357#0" expanded="false" />
+-          </folding>
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/Main.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="119">
+-          <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+-          <folding />
++          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/GenericFunc.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="544">
+-          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+-          <folding>
+-            <element signature="e#726#727#0" expanded="false" />
+-            <element signature="e#775#776#0" expanded="false" />
+-          </folding>
++          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="17">
+-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+-          <folding />
++          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/TestOverriding.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding>
+-            <element signature="e#201#202#0" expanded="false" />
+-            <element signature="e#251#252#0" expanded="false" />
+-            <element signature="e#308#309#0" expanded="false" />
+-            <element signature="e#356#357#0" expanded="false" />
+-          </folding>
+-        </state>
+-      </provider>
++      <provider selected="true" editor-type-id="text-editor" />
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/Main.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="119">
+-          <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+-          <folding />
++          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="17">
+-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+-          <folding />
++          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/GenericFunc.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="544">
+-          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+-          <folding>
+-            <element signature="e#726#727#0" expanded="false" />
+-            <element signature="e#775#776#0" expanded="false" />
+-          </folding>
++          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/TestOverriding.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding>
+-            <element signature="e#201#202#0" expanded="false" />
+-            <element signature="e#251#252#0" expanded="false" />
+-            <element signature="e#308#309#0" expanded="false" />
+-            <element signature="e#356#357#0" expanded="false" />
+-          </folding>
+-        </state>
+-      </provider>
++      <provider selected="true" editor-type-id="text-editor" />
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/Main.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="221">
+-          <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+-          <folding />
++          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="34">
+-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+-          <folding />
++          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/GenericFunc.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="578">
+-          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+-          <folding>
+-            <element signature="e#726#727#0" expanded="false" />
+-            <element signature="e#775#776#0" expanded="false" />
+-          </folding>
++          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/TestOverriding.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding>
+-            <element signature="e#201#202#0" expanded="false" />
+-            <element signature="e#251#252#0" expanded="false" />
+-            <element signature="e#308#309#0" expanded="false" />
+-            <element signature="e#356#357#0" expanded="false" />
+-          </folding>
+-        </state>
+-      </provider>
++      <provider selected="true" editor-type-id="text-editor" />
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/Main.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="119">
+-          <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+-          <folding />
++          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="17">
+-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+-          <folding />
++          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/GenericFunc.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="187">
+-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+-          <folding>
+-            <element signature="e#726#727#0" expanded="false" />
+-            <element signature="e#775#776#0" expanded="false" />
+-          </folding>
++          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+         </state>
+       </provider>
+     </entry>
+@@ -700,15 +611,13 @@
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="221">
+           <caret line="13" column="61" lean-forward="true" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+-          <folding />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="34">
+-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+-          <folding />
++          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+         </state>
+       </provider>
+     </entry>
+@@ -716,24 +625,16 @@
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="187">
+           <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+-          <folding>
+-            <element signature="e#726#727#0" expanded="false" />
+-            <element signature="e#775#776#0" expanded="false" />
+-          </folding>
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/Solution.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-        </state>
+-      </provider>
++      <provider selected="true" editor-type-id="text-editor" />
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/Solution12.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="161">
+-          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
++          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+         </state>
+       </provider>
+     </entry>
+@@ -751,54 +652,35 @@
+     <entry file="file://$PROJECT_DIR$/src/Solution.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="272">
+-          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
++          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/Main.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="119">
+-          <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="17">
+-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+-          <folding />
++          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/GenericFunc.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="544">
+-          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+-          <folding>
+-            <element signature="e#726#727#0" expanded="false" />
+-            <element signature="e#775#776#0" expanded="false" />
+-          </folding>
++          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/TestOverriding.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="255">
+-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+-          <folding>
+-            <element signature="e#201#202#0" expanded="false" />
+-            <element signature="e#251#252#0" expanded="false" />
+-            <element signature="e#308#309#0" expanded="false" />
+-            <element signature="e#356#357#0" expanded="false" />
+-          </folding>
++          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/Base.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="153">
+-          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
++        <state relative-caret-position="360">
++          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+           <folding>
+             <element signature="e#286#287#0" expanded="true" />
+             <element signature="e#337#338#0" expanded="true" />
+@@ -814,11 +696,20 @@
+         </state>
+       </provider>
+     </entry>
++    <entry file="file://$PROJECT_DIR$/src/ArraylistHack.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="40">
++          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
++          <folding>
++            <element signature="imports" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
+     <entry file="file://$PROJECT_DIR$/src/ArrayQuiz.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="187">
+-          <caret line="11" column="84" lean-forward="false" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
+-          <folding />
++        <state relative-caret-position="418">
++          <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+         </state>
+       </provider>
+     </entry>
+@@ -862,7 +753,7 @@
+       </state>
+       <state key="JdkListConfigurable.UI">
+         <settings>
+-          <last-edited>9.0</last-edited>
++          <last-edited>9</last-edited>
+           <splitter-proportions>
+             <option name="proportions">
+               <list>
+@@ -879,6 +770,7 @@
+             <option name="proportions">
+               <list>
+                 <option value="0.2" />
++                <option value="0.6" />
+               </list>
+             </option>
+           </splitter-proportions>
+@@ -886,7 +778,7 @@
+       </state>
+       <state key="ProjectJDKs.UI">
+         <settings>
+-          <last-edited>1.8</last-edited>
++          <last-edited>9</last-edited>
+           <splitter-proportions>
+             <option name="proportions">
+               <list>

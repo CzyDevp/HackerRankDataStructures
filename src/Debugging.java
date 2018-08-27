@@ -17,7 +17,7 @@ public class Debugging {
     }
     private List<Integer> removeEvenNumbers(Integer ... values) {
         // TODO: Fix code here.
-       // List<Integer> integers = new CopyOnWriteArrayList<>();      //1 multithreaded env
+       // Node<Integer> integers = new CopyOnWriteArrayList<>();      //1 multithreaded env
         List<Integer> integers = new ArrayList<>(Arrays.asList(values)); //2
        /* Iterator itr = integers.iterator();
         while (itr.hasNext()){
