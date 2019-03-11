@@ -1,3 +1,4 @@
+/*
 import java.util.*;
 
 public class Java9 {
@@ -24,5 +25,8 @@ public class Java9 {
        // names_sex.forEach((k,v)-> System.out.println(k + " "+v));  //print options
         names_sex.entrySet().forEach(e-> System.out.println(e.getKey()+"'s"  + " Sex is: "+ e.getValue()));
     }
+*/
+/**//*
 
 }
+*/
